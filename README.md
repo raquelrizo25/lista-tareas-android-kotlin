@@ -2,6 +2,9 @@
 
 Aplicación Android desarrollada en Kotlin que permite añadir tareas a una lista de forma sencilla.
 
+## 📸 Captura de la app
+![App funcionando](Captura_proyecto.png)
+
 ## ✨ Funcionalidades
 - Añadir nuevas tareas
 - Mostrar tareas en una lista

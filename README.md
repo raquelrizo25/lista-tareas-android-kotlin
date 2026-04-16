@@ -17,7 +17,7 @@ Aplicación móvil desarrollada en Kotlin para la gestión de tareas, con una in
 
 ## 📸 Captura
 
-![Captura de la app](captura_proyecto.png)
+![Captura de la app](Captura_proyecto.png)
 
 ## 👩‍💻 Autora
 

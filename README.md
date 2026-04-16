@@ -14,7 +14,6 @@ Aplicación móvil desarrollada en Kotlin para la gestión de tareas, con una in
 - Kotlin
 - Android Studio
 - XML (layouts)
-- RecyclerView (si lo usas, si no lo quitamos)
 
 ## 📸 Captura
 

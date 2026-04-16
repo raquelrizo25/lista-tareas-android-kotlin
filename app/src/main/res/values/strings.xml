@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaTareasApp</string>
+    <string name="titulo_lista">Lista de tareas</string>
+    <string name="hint_tarea">Escribe una tarea</string>
+    <string name="boton_anadir">Añadir tarea</string>
+    <string name="tarea_ejemplo">Tarea ejemplo</string>
+</resources>
